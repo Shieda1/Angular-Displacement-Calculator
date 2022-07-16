@@ -1,4 +1,5 @@
 // https://calculator.swiftutors.com/angular-displacement-calculator.html
+// https://www.omnicalculator.com/physics/angular-displacement
 
 const v1 =  document.getElementById('v1');
 const v2 = document.getElementById('v2');
